@@ -1,17 +1,18 @@
 # Ridhim's Macropad
-Ridhim's Macropad is a 9-key macropad with a EC11 rotary encoder running on an rpi pico. (Made for Hack Club Fallout)
+Ridhim's Macropad is a 9-key macropad with a EC11 rotary encoder running on an RPi Pico. (Made for Hack Club Fallout)
 
 ## Features:
 - Cool looking case
 - EC11 Rotary Encoder as a volume knob
 - 9 Keys (Reprogrammable in Python)
+- Connects using Micro-USB
 
 
 ![Image of macropad fully assembled](/assets/Assembly.png)
 
 ## Assembly:
 - Snap the switches into the plate
-- Then the switches, diodes, rotary encoder, and rpi pico should be soldered onto the pcb acccording to the schematic. 
+- Then the switches, diodes, rotary encoder, and RPi Pico should be soldered onto the pcb acccording to the schematic. 
 - Place the plate with the pcb attached underneath it into the base and fit the micro usb port into its hole
 - Place the top part, and then insert 4 M3*20mm screws into the holes and secure underneath with nuts
 - Insert keycaps onto switches and dial onto rotary encoder
@@ -35,3 +36,7 @@ Ridhim's Macropad is a 9-key macropad with a EC11 rotary encoder running on an r
 ## Bill Of Materials
 
 The BOM is available [here](/BOM.csv)
+
+## Note:
+
+There are 2 variants of the plate available, one has a thickness of 1.5mm and the other is 3mm. The 3mm is the main one as it is the size specified in the Hackpad guide, and a 1.5mm 3D Printed plate would be very fragile.
