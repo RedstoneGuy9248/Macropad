@@ -32,3 +32,6 @@ Ridhim's Macropad is a 9-key macropad with a EC11 rotary encoder running on an r
 ![Image of macropad PCB 3D](/assets/PCB%203D.png)
 ![Image of macropad PCB 3D Underside](/assets/PCB%20Underside.png)
 
+## Bill Of Materials
+
+The BOM is available [here](/BOM.csv)

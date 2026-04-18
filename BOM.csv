@@ -1,0 +1,17 @@
+Quantity,Name,Price Per Piece,Total Price,Vendor,Vendor Link,Note
+20*,1N4148 Diode,3 INR / 0.032 USD,60INR / 0.65 USD,FlyRobo,https://www.flyrobo.in/1n4148-switching-diode-standard-75v-150ma-through-hole,*9 Needed but min order qty is 20
+9,MX Cherry Switch,26 INR / 0.28 USD,234 INR / 2.25 USD,Rajiv Electronics,https://rajivelectronics.com/productDetails/MCYQ,
+5*,PCBs,37.04 INR / 0.4 USD,185.19 INR / 2 USD,JLCPCB,,*1 Needed but min order qty is 5
+1,Raspberry Pi Pico,397 INR / 4.29 USD,397 INR / 4.29 USD,RoboCraze,https://robocraze.com/products/raspberry-pi-pico,
+1,Enclosure 3D Print,914.13 INR / 9.87 USD,914.13 INR / 9.87 USD *,JLCPCB,,*Might be reduced if use print legion or ender 3
+1,EC11 Rotary Encoder,44 INR / 0.48 USD,44 INR / 0.48 USD,FlyRobo,https://www.flyrobo.in/ec11-rotary-encoder-with-switch-digital-potentiometer-20mm,
+20*,M3*20mm Screws,2 INR / 0.022 USD,40 INR / 0.43 USD,FlyRobo,https://www.flyrobo.in/m3x20mm-pan-philips-head-screw-10pcs,*4 Needed but min order qty is 20
+20*,M3 Nut,1.5 INR / 0.016 USD,30 INR / 0.32 USD,FlyRobo,https://www.flyrobo.in/m3-ss-hex-nut-10pcs,*4 Needed but min order qty is 20
+,,,,,,
+_,Shipping + Misc,110 INR / 1.19 USD,,Rajiv Electronics,,
+,,59 INR / 0.64 USD,,Fly Robo,,
+,,50 INR / 0.54 USD,,RoboCraze,,
+,,998.27 INR / 10.78 USD *,,JLCPCB ,,*Might be reduced due to coupon
+_,,,1130.03 INR / 12.20 USD,,,
+,,,,,,
+,Total,_,3034.28 INR / 32.76 USD,,,
