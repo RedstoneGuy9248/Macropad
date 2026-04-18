@@ -21,7 +21,7 @@ Ridhim's Macropad is a 9-key macropad with a EC11 rotary encoder running on an R
 - [Install CircuitPython on the RPi Pico](https://learn.adafruit.com/welcome-to-circuitpython/installing-circuitpython)
 - Get an up to date copy of [KMK](https://github.com/KMKfw/kmk_firmware/archive/refs/heads/main.zip)
 - Unzip it and drag the contents into the root of the usb drive corresponding to the RPi Pico
-- Copy the main.py file from KMK_Firmware/ of this repo into the same root folder
+- Copy the main.py file from firmware/ of this repo into the same root folder
 
 ## Schematic
 
