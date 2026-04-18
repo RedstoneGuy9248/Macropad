@@ -1,10 +1,13 @@
 # Ridhim's Macropad
-Ridhim's Macropad is a 9-key macropad with a EC11 rotary encoder running on an rpi pico.
+Ridhim's Macropad is a 9-key macropad with a EC11 rotary encoder running on an rpi pico. (Made for Hack Club Fallout)
 
 ## Features:
 - Cool looking case
 - EC11 Rotary Encoder as a volume knob
 - 9 Keys (Reprogrammable in Python)
+
+
+![Image of macropad fully assembled](/assets/Assembly.png)
 
 ## Assembly:
 - Snap the switches into the plate
@@ -18,3 +21,14 @@ Ridhim's Macropad is a 9-key macropad with a EC11 rotary encoder running on an r
 - Get an up to date copy of [KMK](https://github.com/KMKfw/kmk_firmware/archive/refs/heads/main.zip)
 - Unzip it and drag the contents into the root of the usb drive corresponding to the RPi Pico
 - Copy the main.py file from KMK_Firmware/ of this repo into the same root folder
+
+## Schematic
+
+![Image of macropad schematic](/assets/Schematic.png)
+
+## PCB
+
+![Image of macropad PCB Flat](/assets/PCB%202D.png)
+![Image of macropad PCB 3D](/assets/PCB%203D.png)
+![Image of macropad PCB 3D Underside](/assets/PCB%20Underside.png)
+
