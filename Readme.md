@@ -41,9 +41,9 @@ The BOM is available [here](/BOM.csv)
 
 ## Zine
 
-![Image of Zine](/assets/Zine.png)
+![Image of Zine](/assets/Zine.jpg)
 
-(The pdf is available [here](/Ridhim%27s%20Macropad%20Zine.pdf))
+(The PDF is available [here](/Ridhim%27s%20Macropad%20Zine.pdf))
 
 ## Note:
 
