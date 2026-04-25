@@ -8,7 +8,7 @@ Ridhim's Macropad is a 9-key macropad with a EC11 rotary encoder running on an R
 - Connects using Micro-USB
 
 ### why?
-I made this project as a bit of a more complex successor to my [previous hardware project](https://github.com/RedstoneGuy9248/weatherStation), as i barely have any hardware experience and need practice to be able to build actual complex ones. (also for fallout lol)
+I made this project as a bit of a more complex next project, compared to my [previous hardware project](https://github.com/RedstoneGuy9248/weatherStation), as i barely have any hardware experience and need practice to be able to build actual complex ones. (also for fallout lol). From this, I've learnt the basics of how to design PCBs in KiCAD, re-learnt Fusion 360 after like 4 years, and also understood a lot about how hardware made to like actual complete products are made. 
 
 ![Image of macropad fully assembled](/assets/Assembly.png)
 
