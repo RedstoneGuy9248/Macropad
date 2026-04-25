@@ -508,7 +508,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "../Macropad/production/",
+      "plot": "gerbers (unzipped)/",
       "specctra_dsn": "",
       "vrml": ""
     },

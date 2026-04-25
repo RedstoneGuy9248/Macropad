@@ -7,6 +7,8 @@ Ridhim's Macropad is a 9-key macropad with a EC11 rotary encoder running on an R
 - 9 Keys (Reprogrammable in Python)
 - Connects using Micro-USB
 
+### why?
+I made this project as a bit of a more complex successor to my [previous hardware project](https://github.com/RedstoneGuy9248/weatherStation), as i barely have any hardware experience and need practice to be able to build actual complex ones. (also for fallout lol)
 
 ![Image of macropad fully assembled](/assets/Assembly.png)
 
@@ -36,6 +38,12 @@ Ridhim's Macropad is a 9-key macropad with a EC11 rotary encoder running on an R
 ## Bill Of Materials
 
 The BOM is available [here](/BOM.csv)
+
+## Zine
+
+![Image of Zine](/assets/Zine.png)
+
+(The pdf is available [here](/Ridhim%27s%20Macropad%20Zine.pdf))
 
 ## Note:
 
